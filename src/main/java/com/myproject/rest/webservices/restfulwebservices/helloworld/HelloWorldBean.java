@@ -1,4 +1,4 @@
-package com.myproject.rest.webservices.restfulwebservices;
+package com.myproject.rest.webservices.restfulwebservices.helloworld;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
